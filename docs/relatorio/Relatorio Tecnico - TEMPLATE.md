@@ -89,7 +89,7 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O software Mentoria foi desenvolvido com o objetivo principal de aprimorar substancialmente a interação entre os alunos e monitores da PUC Minas. Com isso em mente, é crucial simplificar e otimizar o canal de comunicação entre esses dois grupos, visando uma melhoria significativa na experiência geral. Embora a plataforma CANVAS ofereça a opção de mentoria, o modelo atual não está completamente otimizado para atender às necessidades dos usuários que buscam exclusivamente esse tipo de interação. Nesse contexto, isso se torna bastante relevante para todos os alunos, principalmente para os calouros da universidade, que em sua maioria não possuem domínio rapidamente  do funcionamento do CANVAS e do SGA, resultando em um desconhecimento e pouca agilidade em seus detalhes operacionais. A implementação dessas melhorias também trará benefícios aos monitores, aprimorando e otimizando a eficiência do processo para todas as partes envolvidas. 
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
