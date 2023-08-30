@@ -1,21 +1,17 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+DESENVOLVIMENTO DE UM SOFTWARE WEB PARA GERENCIAMENTO DE MENTORIAS DA PUC MINA
+Faculdade de Sistemas de Informação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Desenvolvedores:      
+Alessandro Gomes Pereira
+Antônio Guilherme Guimarães Santos de Menezes
+Marlon Magalhaes Carvalho
+Samuel Correia Nunes
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
@@ -76,14 +72,14 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Desenvolver um software web que permita gerenciar o processo de aprendizado entre mentor e mentorado. 
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
+Objetivos Específicos:
+Dentro os objetivos específicos deste trabalho, destacam-se
+- Realizar um estudo da documentação de requisitos, a fim de identificar os pontos essenciais para o desenvolvimento do projeto.
+- Desenvolver uma aplicação web que permita o agendamento e gerenciamento de mentorias.
+- Aplicar técnicas de linguagem de programação web para o desenvolvimento da interface/layout da página.
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
