@@ -55,6 +55,9 @@ Samuel Correia Nunes
 # Introdução
 
 ## Problema
+  Para muitos estudantes, a busca por orientação ou mentoria pode ser prejudicada por uma percepção equivocada. Alguns deles encaram essa busca como um sinal de fraqueza ou incompetência, o que acaba por desencorajá-los de procurar mentores. Além disso, estudantes universitários frequentemente enfrentam uma carga horária intensa, entre aulas e trabalho, o que gera uma sensação de sobrecarga e falta de tempo para se envolver e procurar um mentor.
+  A dificuldade em conciliar agendas é um desafio adicional. Isso ocorre especialmente quando os mentores em potencial que, por sua vez, também enfrentam altas demandas entre aulas e o trabalho. Nesse cenário, a sincronização das agendas dos alunos com as dos mentores torna-se uma tarefa complicada, muitas vezes desencorajando a busca por mentoria. Portanto, esses obstáculos podem levar os estudantes a adiar ou até mesmo evitar a procura por orientação, apesar dos benefícios que a mentoria pode oferecer em sua jornada acadêmica e profissional.
+
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
