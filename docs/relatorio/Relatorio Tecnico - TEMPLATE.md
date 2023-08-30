@@ -110,7 +110,12 @@ O software Mentoria foi desenvolvido com o objetivo principal de aprimorar subst
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O software web de mentorias em universidades e escolas tem como público-alvo:
+
+Professores e Orientadores: Para oferecer suporte acadêmico e orientação.
+Alunos: Que buscam melhorar o desempenho e planejar suas mentorias.
+Coordenadores Educacionais: Responsáveis por supervisionar atividades, incluindo mentorias.
+Administração Escolar: Membros da equipe administrativa.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
