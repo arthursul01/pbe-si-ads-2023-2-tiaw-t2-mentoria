@@ -9,8 +9,11 @@ Faculdade de Sistemas de Informação
 
 Desenvolvedores:      
 Alessandro Gomes Pereira
+
 Antônio Guilherme Guimarães Santos de Menezes
+
 Marlon Magalhaes Carvalho
+
 Samuel Correia Nunes
 
 
