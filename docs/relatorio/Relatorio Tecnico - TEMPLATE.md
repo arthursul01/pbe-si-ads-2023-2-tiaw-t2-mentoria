@@ -79,13 +79,15 @@ Samuel Correia Nunes
 
 ## Objetivos
 
-Desenvolver um software web que permita gerenciar o processo de aprendizado entre mentor e mentorado. 
+Desenvolver um software web que permita gerenciar o processo de aprendizado entre mentor e mentorado, favorecendo a comunicação entre eles, tal como a escolha do orientador e o tema abordado durante a mentoria.
 
 Objetivos Específicos:
-Dentro os objetivos específicos deste trabalho, destacam-se
+Este projeto consiste nos seguintes objetivos:
+- Identificar e especificar os problemas relacionados ao processo de mentoria, através do desenvolvimento de uma pesquisa prévia.
 - Realizar um estudo da documentação de requisitos, a fim de identificar os pontos essenciais para o desenvolvimento do projeto.
-- Desenvolver uma aplicação web que permita o agendamento e gerenciamento de mentorias.
-- Aplicar técnicas de linguagem de programação web para o desenvolvimento da interface/layouts das páginas.
+- Desenvolver uma aplicação web que permita o agendamento e gerenciamento de mentorias através de módulos e funcionalidades específicas. 
+- Aplicar técnicas de linguagem de programação web para o desenvolvimento da interface/layout da página como também suas funcionalidades.
+
 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
