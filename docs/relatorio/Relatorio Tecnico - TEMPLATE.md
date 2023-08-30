@@ -82,7 +82,7 @@ Objetivos Específicos:
 Dentro os objetivos específicos deste trabalho, destacam-se
 - Realizar um estudo da documentação de requisitos, a fim de identificar os pontos essenciais para o desenvolvimento do projeto.
 - Desenvolver uma aplicação web que permita o agendamento e gerenciamento de mentorias.
-- Aplicar técnicas de linguagem de programação web para o desenvolvimento da interface/layout da página.
+- Aplicar técnicas de linguagem de programação web para o desenvolvimento da interface/layouts das páginas.
 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
