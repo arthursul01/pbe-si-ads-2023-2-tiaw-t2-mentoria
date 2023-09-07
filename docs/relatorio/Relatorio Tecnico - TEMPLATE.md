@@ -3,7 +3,7 @@
 
 DESENVOLVIMENTO DE UM SOFTWARE WEB PARA GERENCIAMENTO DE MENTORIAS DA PUC MINAS
 
-Faculdade de Sistemas de Informação
+Faculdades: Sistemas de Informação e Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
