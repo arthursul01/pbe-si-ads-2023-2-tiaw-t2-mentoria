@@ -177,6 +177,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
+Eu, Rafaela Alves Santos, sou uma usuária do sistema e atualmente estudo Farmácia na Puc Minas. Tenho a necessidade de entrar em contato com a monitoria da universidade de maneira ágil e eficiente, além de acessar o sistema web de monitoria com facilidade. Meu objetivo é escolher as disciplinas que requerem minha atenção de forma otimizada.
+Essa busca por agilidade e facilidade no acesso ao sistema de monitoria tem como finalidade principal auxiliar-me no estudo das matérias em que enfrento maiores desafios. Desejo economizar tempo e melhorar meu desempenho acadêmico, dedicando mais atenção às disciplinas em que tenho dificuldades. Além disso, pretendo aproveitar a oportunidade para esclarecer dúvidas com os monitores, tornando meu processo de aprendizado mais eficaz.
+
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
 > ferramenta poderosa para a compreensão e elicitação dos requisitos
