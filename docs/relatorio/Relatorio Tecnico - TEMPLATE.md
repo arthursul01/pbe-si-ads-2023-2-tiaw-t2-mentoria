@@ -238,8 +238,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O Sistema web será desenvolvido visando apenas desktops |
+|02| O projeto deverá ser desenvolvido até o final do semestre     |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
