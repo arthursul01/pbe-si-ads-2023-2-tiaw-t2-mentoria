@@ -59,23 +59,6 @@ Samuel Correia Nunes
 
   Nesse cenário desafiador, a sincronização das agendas dos alunos com as dos mentores torna-se uma tarefa complicada, frequentemente desencorajando a busca por mentoria. No entanto, é importante reconhecer que esses obstáculos não deveriam impedir os estudantes de buscar orientação. Apesar das dificuldades, os benefícios que a mentoria pode oferecer em suas jornadas acadêmicas e profissionais são imensuráveis. Portanto, é fundamental superar esses desafios, procurando ativamente mentores que possam oferecer orientação valiosa.
 
-----------------------------------------------------------------------------------------------------------------------------------------
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Desenvolver um software web voltado para a gestão do processo de aprendizado entre mentores e mentorados, com foco na facilitação da comunicação entre ambas as partes, incluindo a seleção do mentor e a definição dos tópicos a serem abordados durante a mentoria.
@@ -96,18 +79,6 @@ Deste modo, nosso objetivo é desenvolver um software web que facilite eficazmen
 
   A implementação dessas melhorias não apenas beneficiará os alunos, proporcionando-lhes uma experiência mais suave e produtiva, mas também terá impactos positivos significativos para os monitores, contribuindo para a otimização e aprimoramento da eficácia do processo para todas as partes envolvidas permitindo a ambos novas funcionalidades para a melhor condução do processo de mentoria.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 O software web de mentorias para instituições educacionais atende a diversos públicos, incluindo:
@@ -116,21 +87,6 @@ O software web de mentorias para instituições educacionais atende a diversos p
 - Alunos: Acessam a ferramenta para aprimorar seu desempenho acadêmico e planejar suas sessões de mentoria.
 - Coordenadores Educacionais: Responsáveis pela supervisão de diversas atividades, incluindo as mentorias, contam com o software para gerenciar esses processos de forma eficiente.
 - Administração Escolar: Os membros da equipe administrativa utilizam a plataforma para garantir o funcionamento adequado de todas as operações relacionadas às mentorias e à gestão geral da instituição.
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
