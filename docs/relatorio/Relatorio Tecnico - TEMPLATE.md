@@ -132,24 +132,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Eu, Rafaela Alves Santos, sou uma usuária do sistema e atualmente estudo Farmácia na Puc Minas. Tenho a necessidade de entrar em contato com a monitoria da universidade de maneira ágil e eficiente, além de acessar o sistema web de monitoria com facilidade. Meu objetivo é escolher as disciplinas que requerem minha atenção de forma otimizada.
-Essa busca por agilidade e facilidade no acesso ao sistema de monitoria tem como finalidade principal auxiliar-me no estudo das matérias em que enfrento maiores desafios. Desejo economizar tempo e melhorar meu desempenho acadêmico, dedicando mais atenção às disciplinas em que tenho dificuldades. Além disso, pretendo aproveitar a oportunidade para esclarecer dúvidas com os monitores, tornando meu processo de aprendizado mais eficaz.
+HISTÓRIAS DE VIDA:
 
-Rafael Júnior Prado é um estudante dedicado do curso de Sistemas de Informação na PUC Minas. Desde o início de sua jornada acadêmica, ele tinha uma visão clara de seus objetivos: tornar-se um programador habilidoso e, eventualmente, um desenvolvedor de software de sucesso. No entanto, Rafael sabia que o caminho para alcançar esses objetivos seria longo e cheio de desafios.
-Um dos desafios que Rafael enfrentou desde o início de sua jornada foi a necessidade de orientação e mentoria. Ele entendia a importância de aprender com aqueles que já haviam trilhado o caminho que ele desejava seguir. No entanto, encontrar mentores e marcar sessões de mentoria que se encaixassem em sua agenda lotada de aulas e projetos era um desafio constante.
-Decidido a superar esse obstáculo, Rafael começou a buscar métodos ágeis e flexíveis para marcar e realizar suas mentorias. Ele percebeu que o mundo digital oferecia muitas soluções, e ele estava determinado a aproveitar ao máximo esses recursos.
+Rafaela Alves Santos é estudante do curso de Farmácia na PUC Minas. Ela tem a necessidade de entrar em contato com a monitoria da universidade de maneira ágil e eficiente. Seu objetivo é escolher as disciplinas que requerem sua maior atenção. Essa busca por agilidade e facilidade no acesso ao sistema de monitoria tem como finalidade principal auxiliá-la nos estudos das matérias em que enfrenta maiores dificuldades. Ela tem o desejo em economizar tempo e melhorar seu desempenho acadêmico, aproveitando da oportunidade para esclarecer dúvidas com os monitores, tornando seu processo de aprendizado mais eficaz.
+--------------------------------------------------------------------------------------------------------------------
+Mateus Júnior Prado é um estudante dedicado do curso de Sistemas de Informação na PUC Minas. Desde o início de sua jornada acadêmica, ele traçou com clareza seus objetivos: tornar-se um programador habilidoso e, eventualmente, alcançar o sucesso como desenvolvedor de software. No entanto, Mateus compreendia que a estrada para atingir esses objetivos seria longa e repleta de desafios. Um dos obstáculos que ele enfrentou desde o início de sua trajetória foi a necessidade de orientação e mentoria.
+Ele reconhecia a importância de aprender com aqueles que já trilharam o caminho que ele desejava seguir, mas deparava-se com a constante dificuldade de encontrar mentores e agendar sessões de mentoria que se encaixassem em sua agenda lotada de aulas e projetos. Determinado a superar esse obstáculo, Mateus começou a buscar métodos ágeis e flexíveis para programar e realizar suas mentorias. Ele percebeu que o mundo digital oferece uma infinidade de soluções e estava decidido a aproveitar ao máximo esses recursos.
+--------------------------------------------------------------------------------------------------------------------
+Maria Gabriela Amorim é estudante do curso de Psicologia na PUC Minas e leva uma vida extremamente ocupada. Ela enfrenta desafios consideráveis na tentativa de equilibrar seus horários de estudo com seus compromissos pessoais e profissionais. Durante nossa entrevista, ela destacou a dificuldade que enfrenta ao buscar suporte para as disciplinas em que encontra obstáculos. Isso ocorre, em grande parte, devido à maioria das sessões de monitoria ocorrerem durante as tardes e, frequentemente, de forma presencial. No entanto, devido à sua residência distante e ao seu estágio em uma grande empresa, Gabriela não tem a flexibilidade de comparecer a essas mentorias.
+Ela está ansiosa por uma solução que lhe permita harmonizar sua agenda com a disponibilidade das mentorias de forma híbrida, o que significa que ela gostaria de poder escolher entre participar presencialmente em alguns dias e remotamente em outros, conforme sua situação e necessidades específicas.
 
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
