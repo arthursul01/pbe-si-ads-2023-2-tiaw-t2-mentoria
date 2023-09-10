@@ -55,12 +55,11 @@ Samuel Correia Nunes
 # Introdução
 
 ## Problema
-  Para muitos estudantes, a busca por orientação ou mentoria pode ser prejudicada por uma percepção equivocada. Alguns deles encaram essa busca como um sinal de fraqueza ou incompetência, o que acaba por desencorajá-los de procurar mentores. Além disso, estudantes universitários frequentemente enfrentam uma carga horária intensa, entre aulas e trabalho, o que gera uma sensação de sobrecarga e falta de tempo para se envolver e procurar um mentor.
-  A dificuldade em conciliar agendas é um desafio adicional. Isso ocorre especialmente quando os mentores em potencial que, por sua vez, também enfrentam altas demandas entre aulas e o trabalho. Nesse cenário, a sincronização das agendas dos alunos com as dos mentores torna-se uma tarefa complicada, muitas vezes desencorajando a busca por mentoria. Portanto, esses obstáculos podem levar os estudantes a adiar ou até mesmo evitar a procura por orientação, apesar dos benefícios que a mentoria pode oferecer em sua jornada acadêmica e profissional.
+  Para muitos estudantes, a busca por orientação ou mentoria pode ser dificultada por equívocos e desafios significativos. Algumas pessoas encaram essa busca como um sinal de vulnerabilidade ou falta de competência, o que acaba por desencorajá-las a procurar mentores. Além disso, estudantes universitários frequentemente enfrentam uma carga horária intensa, equilibrando aulas e trabalho, o que gera uma sensação de sobrecarga e falta de tempo para se envolver na busca por um mentor. A dificuldade em coordenar agendas também é um obstáculo adicional, especialmente quando os mentores em potencial também estão sobrecarregados com suas próprias obrigações acadêmicas e profissionais.
 
+  Nesse cenário desafiador, a sincronização das agendas dos alunos com as dos mentores torna-se uma tarefa complicada, frequentemente desencorajando a busca por mentoria. No entanto, é importante reconhecer que esses obstáculos não deveriam impedir os estudantes de buscar orientação. Apesar das dificuldades, os benefícios que a mentoria pode oferecer em suas jornadas acadêmicas e profissionais são imensuráveis. Portanto, é fundamental superar esses desafios, procurando ativamente mentores que possam oferecer orientação valiosa.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+----------------------------------------------------------------------------------------------------------------------------------------
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
 > Descreva também o contexto em que essa aplicação será usada, se
@@ -79,22 +78,23 @@ Samuel Correia Nunes
 
 ## Objetivos
 
-Desenvolver um software web que permita gerenciar o processo de aprendizado entre mentor e mentorado, favorecendo a comunicação entre eles, tal como a escolha do orientador e o tema abordado durante a mentoria.
+Desenvolver um software web voltado para a gestão do processo de aprendizado entre mentores e mentorados, com foco na facilitação da comunicação entre ambas as partes, incluindo a seleção do mentor e a definição dos tópicos a serem abordados durante a mentoria.
 
 Objetivos Específicos:
-Este projeto consiste nos seguintes objetivos:
-- Identificar e especificar os problemas relacionados ao processo de mentoria, através do desenvolvimento de uma pesquisa prévia.
-- Realizar um estudo da documentação de requisitos, a fim de identificar os pontos essenciais para o desenvolvimento do projeto.
-- Desenvolver uma aplicação web que permita o agendamento e gerenciamento de mentorias através de módulos e funcionalidades específicas. 
-- Aplicar técnicas de linguagem de programação web para o desenvolvimento da interface/layout da página como também suas funcionalidades.
+Este projeto se propõe a alcançar os seguintes objetivos:
 
+- Realizar uma pesquisa preliminar para identificar e definir os desafios associados ao processo de mentoria.
+- Conduzir uma análise detalhada da documentação de requisitos, visando a identificação dos elementos cruciais para a criação do software.
+- Criar uma aplicação web que permita a marcação e administração de sessões de mentoria por meio de módulos e funcionalidades específicas.
+- Utilizar técnicas de desenvolvimento web para a construção da interface e layout da plataforma, garantindo também a implementação das funcionalidades necessárias.
 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Deste modo, nosso objetivo é desenvolver um software web que facilite eficazmente a gestão do processo de mentoria, promovendo a interação entre mentor e mentorado, ao mesmo tempo em que simplifica a escolha do mentor e a definição dos temas a serem abordados durante as sessões.
 
 ## Justificativa
 
-O software Mentoria foi desenvolvido com o objetivo principal de aprimorar substancialmente a interação entre os alunos e monitores da PUC Minas. Com isso em mente, é crucial simplificar e otimizar o canal de comunicação entre esses dois grupos, visando uma melhoria significativa na experiência geral. Embora a plataforma CANVAS ofereça a opção de mentoria, o modelo atual não está completamente otimizado para atender às necessidades dos usuários que buscam exclusivamente esse tipo de interação. Nesse contexto, isso se torna bastante relevante para todos os alunos, principalmente para os calouros da universidade, que em sua maioria não possuem domínio rapidamente  do funcionamento do CANVAS e do SGA, resultando em um desconhecimento e pouca agilidade em seus detalhes operacionais. A implementação dessas melhorias também trará benefícios aos monitores, aprimorando e otimizando a eficiência do processo para todas as partes envolvidas. 
+  O software Mentoria foi concebido com o propósito fundamental de revolucionar a interação entre os alunos e monitores da PUC Minas, com o objetivo primordial de simplificar e aprimorar substancialmente o canal de comunicação entre esses dois grupos, visando proporcionar uma experiência global aprimorada. Apesar de a plataforma CANVAS já oferecer a funcionalidade de mentoria, o atual modelo não está plenamente alinhado com as necessidades dos usuários que buscam especificamente esse tipo de interação. Nesse contexto, essa questão adquire grande relevância, especialmente para os alunos ingressantes da universidade, que frequentemente não estão familiarizados com o funcionamento detalhado do CANVAS e do SGA, o que resulta em desconhecimento e limitações na sua utilização eficiente.
+
+  A implementação dessas melhorias não apenas beneficiará os alunos, proporcionando-lhes uma experiência mais suave e produtiva, mas também terá impactos positivos significativos para os monitores, contribuindo para a otimização e aprimoramento da eficácia do processo para todas as partes envolvidas permitindo a ambos novas funcionalidades para a melhor condução do processo de mentoria.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -110,12 +110,12 @@ O software Mentoria foi desenvolvido com o objetivo principal de aprimorar subst
 
 ## Público-Alvo
 
-O software web de mentorias em universidades e escolas tem como público-alvo:
+O software web de mentorias para instituições educacionais atende a diversos públicos, incluindo:
 
-Professores e Orientadores: Para oferecer suporte acadêmico e orientação.
-Alunos: Que buscam melhorar o desempenho e planejar suas mentorias.
-Coordenadores Educacionais: Responsáveis por supervisionar atividades, incluindo mentorias.
-Administração Escolar: Membros da equipe administrativa.
+- Professores e Orientadores: Utilizam a plataforma para fornecer suporte acadêmico e orientação aos estudantes.
+- Alunos: Acessam a ferramenta para aprimorar seu desempenho acadêmico e planejar suas sessões de mentoria.
+- Coordenadores Educacionais: Responsáveis pela supervisão de diversas atividades, incluindo as mentorias, contam com o software para gerenciar esses processos de forma eficiente.
+- Administração Escolar: Os membros da equipe administrativa utilizam a plataforma para garantir o funcionamento adequado de todas as operações relacionadas às mentorias e à gestão geral da instituição.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -244,7 +244,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O Sistema web será desenvolvido visando apenas desktops |
-|02| O projeto deverá ser desenvolvido até o final do semestre     |
+|02| O projeto deverá ser desenvolvido até o final do semestre|
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
