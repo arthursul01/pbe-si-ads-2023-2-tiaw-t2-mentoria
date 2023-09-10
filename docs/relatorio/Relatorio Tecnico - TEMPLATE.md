@@ -159,16 +159,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o Usuário contate o monitor | ALTA | 
-|RF-002| Permitir cadastro de usuários   | MÉDIA |
+|RF-001| O sistema deve permitir o cadastro de alunos e monitores | ALTA |
+|RF-002| Permitir o cadastro das disciplinas  | ALTA |
+|RF-003| Disponibilizar agenda para marcação de horários com mentores | ALTA |
+|RF-004| Sistema de Mensagem (Chat) para comunicação entre Mentor e Aluno | ALTA | 
+|RF-005| Compartilhamento de Recursos e Matérias Complementares | MÉDIO |
+|RF-006| Avaliação / Feedback dos atendimentos | BAIXO |
+
+
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser robusto para suportar vários usuários ao mesmo tempo | ALTA   | 
-|RNF-002| O sistema deve estar disponível 99,9% do tempo, excluindo janelas de manutenção planejada. | MÉDIA | 
+|RNF-001| O sistema deve ser capaz de ser escalavel | ALTA | 
+|RNF-002| O sistema deve possuir medidas de segurança visando a privacidade dos dados  | ALTA | 
+|RNF-003| O sistema deve ser robusto o suficiente para suportar simultaneamente múltiplos usuários.| ALTA | 
+|RNF-004| O sistema deve ser responsivo para rodar em um dispositivos móvel  | MÉDIA | 
+|RNF-005| O sistema deve possuir Backup planejado dos dados  | MÉDIA | 
+|RNF-006| O sistema deve possuir suporte tecnico quando necessario | MÉDIA | 
+|RNF-007| O sistema deve estar disponível 99,9% do tempo, sem interrupções, excluindo janelas de manutenção planejada. | BAIXO | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -198,8 +209,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O Sistema web será desenvolvido visando apenas desktops |
-|02| O projeto deverá ser desenvolvido até o final do semestre|
+|01| O sistema web será desenvolvido visando apenas desktops.|
+|02| O projeto deverá ser concluído até o final do semestre letivo.|
+|03| O projeto possui 3 desenvolvedores.|
+|04| Restrições orçamentárias e financeiras.|
+|05| O sistema deverá ser desenvolvido em JavaScript.|
+|06| O sistema deve ser desenvolvido em língua portuguesa.|
+
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
