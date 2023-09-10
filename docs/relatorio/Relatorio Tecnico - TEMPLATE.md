@@ -204,6 +204,7 @@ Além disso, o site contará com uma funcionalidade de agendamento. Os usuários
 Outro recurso valioso será o fórum integrado ao site. Aqui, os usuários poderão compartilhar suas experiências, fazer perguntas, e até mesmo ajudar uns aos outros. Esse espaço de comunidade promoverá a colaboração e a troca de conhecimento entre os usuários, enriquecendo ainda mais a experiência educacional.
 Por fim, nosso site contará com uma lista de atividades disponibilizadas pelos mentores. Os usuários terão a oportunidade de realizar essas tarefas e acumular pontos à medida que as concluírem. Isso não apenas incentivará a participação ativa, mas também reconhecerá e recompensará o esforço dos usuários em seu desenvolvimento pessoal e acadêmico.
 
+
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
 > funcionais e histórias de usuário abordados nas [Especificações do
