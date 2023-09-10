@@ -198,8 +198,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Projeto de Interface
-
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Essas soluções foram cuidadosamente planejadas para oferecer uma experiência completa e eficiente aos usuários.
+Uma das características essenciais do nosso site será a presença de um chat de interação entre os usuários e os mentores. Isso permitirá uma comunicação direta e instantânea, facilitando a troca de informações e experiências de maneira eficaz. Os usuários poderão tirar dúvidas, receber orientações e estabelecer uma conexão mais próxima com os mentores, tornando o processo de mentoria mais acessível e valioso.
+Além disso, o site contará com uma funcionalidade de agendamento. Os usuários terão a capacidade de marcar horários de mentoria de acordo com sua disponibilidade e a dos mentores. Isso otimizará a gestão do tempo, permitindo que todos se programem de maneira eficaz. A transparência na disponibilidade dos mentores será fundamental para garantir uma agenda bem organizada.
+Outro recurso valioso será o fórum integrado ao site. Aqui, os usuários poderão compartilhar suas experiências, fazer perguntas, e até mesmo ajudar uns aos outros. Esse espaço de comunidade promoverá a colaboração e a troca de conhecimento entre os usuários, enriquecendo ainda mais a experiência educacional.
+Por fim, nosso site contará com uma lista de atividades disponibilizadas pelos mentores. Os usuários terão a oportunidade de realizar essas tarefas e acumular pontos à medida que as concluírem. Isso não apenas incentivará a participação ativa, mas também reconhecerá e recompensará o esforço dos usuários em seu desenvolvimento pessoal e acadêmico.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
