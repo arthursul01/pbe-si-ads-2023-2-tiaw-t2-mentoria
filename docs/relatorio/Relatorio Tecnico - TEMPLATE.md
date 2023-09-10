@@ -141,10 +141,14 @@ Rafaela Alves Santos é estudante do curso de Farmácia na PUC Minas. Ela tem a 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 | PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`       |PARA ... `MOTIVO/VALOR`                               |
+|--------------------|------------------------------------------|------------------------------------------------------|
+|Usuário do sistema  | Agendar as mentorias                     | Conciliar as agendas                                 |
+|Usuário do sistema  | Comunicar com o mentor                   | Sanar duvidas                                        |
+|Usuário do sistema  | Mentorias na modalidade Remota/Presencial| Flexibilidade de atendimento                         |
+|Usuário do sistema  | Sistema de Feedback                      | Criticas em relação as disponibilidades dos mentores |
+|Usuário do sistema  | Suporte ao Sistema                       | Auxiliar na utilização do novo sistema               |
+
 
 
 
