@@ -4,8 +4,11 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 Alessandro Gomes Pereira
+
 Antônio Guilherme Guimarães Santos de Menezes
+
 Marlon Magalhaes Carvalho
+
 Samuel Correia Nunes
 
 ## Professores responsáveis
