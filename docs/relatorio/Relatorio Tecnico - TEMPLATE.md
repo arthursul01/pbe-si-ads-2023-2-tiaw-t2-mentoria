@@ -15,6 +15,8 @@ Marlon Magalhaes Carvalho
 
 Samuel Correia Nunes
 
+Arthur Alves Oliveira Silva
+
 
 # Estrutura do Documento
 
